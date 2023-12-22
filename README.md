@@ -17,4 +17,6 @@
 # SCREENSHOT
 ![slot machine](https://user-images.githubusercontent.com/89832451/229511901-b092fa42-1fb7-4fad-ba31-b1feb9159bf6.png)
 
+![sm](https://github.com/hemanth110702/slot-machine-js/assets/89832451/c89ed824-965a-4218-97ff-38ed9b849077)
+
 
